@@ -1,5 +1,7 @@
 # wp-dot-htaccess
 
+My recommended `.htaccess` settings for WordPress in a production environment.
+
 ```txt
 # Always use SSL
 <IfModule mod_rewrite.c>
